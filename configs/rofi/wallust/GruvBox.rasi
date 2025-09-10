@@ -1,0 +1,53 @@
+/* ---- 💫 Gruvbox Material Dark (Medium) 💫 ---- */
+/* wallust template - colors-rofi */
+
+* {
+  active-background: #d79921;
+  active-foreground: #1d2021;
+
+  normal-background: #1d2021;
+  normal-foreground: #d4be98;
+
+  urgent-background: #cc241d;
+  urgent-foreground: #1d2021;
+
+  alternate-active-background: #b16286;
+  alternate-active-foreground: #1d2021;
+
+  alternate-normal-background: #1d2021;
+  alternate-normal-foreground: #d4be98;
+
+  alternate-urgent-background: #1d2021;
+  alternate-urgent-foreground: #d4be98;
+
+  selected-active-background: #cc241d;
+  selected-active-foreground: #d79921;
+
+  selected-normal-background: #d79921;
+  selected-normal-foreground: #1d2021;
+
+  selected-urgent-background: #b16286;
+  selected-urgent-foreground: #1d2021;
+
+  background-color: #1d2021;
+  background: rgba(29,32,33,0.7);
+  foreground: #d4be98;
+  border-color: #d79921;
+
+  color0: #1d2021;
+  color1: #282828;
+  color2: #32302f;
+  color3: #3c3836;
+  color4: #504945;
+  color5: #665c54;
+  color6: #7c6f64;
+  color7: #928374;
+  color8: #a89984;
+  color9: #bdae93;
+  color10: #d5c4a1;
+  color11: #ebdbb2;
+  color12: #fbf1c7;
+  color13: #f9f5d7;
+  color14: #d79921;
+  color15: #d4be98;
+}

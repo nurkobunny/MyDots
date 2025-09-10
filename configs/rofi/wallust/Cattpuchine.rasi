@@ -1,0 +1,58 @@
+/* ---- 💫 Catppuccin Macchiato 💫 ---- */
+/* wallust template - colors-rofi */
+
+* {
+  /* Основные цвета */
+  active-background: #8aadf4;    /* blue */
+  active-foreground: #181926;    /* crust */
+
+  normal-background: #1e2030;    /* mantle */
+  normal-foreground: #cad3f5;    /* text */
+
+  urgent-background: #ed8796;    /* red */
+  urgent-foreground: #181926;    /* crust */
+
+  /* Альтернативные цвета */
+  alternate-active-background: #c6a0f6;    /* mauve */
+  alternate-active-foreground: #181926;    /* crust */
+
+  alternate-normal-background: #1e2030;    /* mantle */
+  alternate-normal-foreground: #cad3f5;    /* text */
+
+  alternate-urgent-background: #1e2030;    /* mantle */
+  alternate-urgent-foreground: #cad3f5;    /* text */
+
+  /* Выбранные элементы */
+  selected-active-background: #ed8796;    /* red */
+  selected-active-foreground: #8aadf4;    /* blue */
+
+  selected-normal-background: #8aadf4;    /* blue */
+  selected-normal-foreground: #181926;    /* crust */
+
+  selected-urgent-background: #c6a0f6;    /* mauve */
+  selected-urgent-foreground: #181926;    /* crust */
+
+  /* Основные настройки */
+  background-color: #1e2030;    /* mantle */
+  background: rgba(30, 32, 48, 0.9);    /* mantle с прозрачностью */
+  foreground: #cad3f5;          /* text */
+  border-color: #8aadf4;        /* blue */
+
+  /* Цветовая палитра Catppuccin Macchiato */
+  color0: #181926;    /* crust */
+  color1: #1e2030;    /* mantle */
+  color2: #24273a;    /* base */
+  color3: #363a4f;    /* surface0 */
+  color4: #494d64;    /* surface1 */
+  color5: #5b6078;    /* surface2 */
+  color6: #6e738d;    /* overlay0 */
+  color7: #8087a2;    /* overlay1 */
+  color8: #939ab7;    /* overlay2 */
+  color9: #a5adcb;    /* subtext0 */
+  color10: #b8c0e0;   /* subtext1 */
+  color11: #cad3f5;   /* text */
+  color12: #8aadf4;   /* blue */
+  color13: #c6a0f6;   /* mauve */
+  color14: #ed8796;   /* red */
+  color15: #cad3f5;   /* text */
+}

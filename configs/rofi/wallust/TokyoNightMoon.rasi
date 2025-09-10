@@ -1,0 +1,53 @@
+/* ---- 🌙 TokyoNight Moon ---- */
+/* wallust template - colors-rofi */
+
+* {
+  active-background: #7aa2f7;
+  active-foreground: #1a1b26;
+
+  normal-background: #1a1b26;
+  normal-foreground: #c0caf5;
+
+  urgent-background: #f7768e;
+  urgent-foreground: #1a1b26;
+
+  alternate-active-background: #bb9af7;
+  alternate-active-foreground: #1a1b26;
+
+  alternate-normal-background: #1a1b26;
+  alternate-normal-foreground: #c0caf5;
+
+  alternate-urgent-background: #1a1b26;
+  alternate-urgent-foreground: #c0caf5;
+
+  selected-active-background: #f7768e;
+  selected-active-foreground: #7aa2f7;
+
+  selected-normal-background: #7aa2f7;
+  selected-normal-foreground: #1a1b26;
+
+  selected-urgent-background: #bb9af7;
+  selected-urgent-foreground: #1a1b26;
+
+  background-color: #1a1b26;
+  background: rgba(26,27,38,0.7);
+  foreground: #c0caf5;
+  border-color: #7aa2f7;
+
+  color0: #1a1b26;
+  color1: #16161e;
+  color2: #1f2335;
+  color3: #2e3440;
+  color4: #3b4261;
+  color5: #565f89;
+  color6: #6e738d;
+  color7: #7aa2f7;
+  color8: #9aa5ce;
+  color9: #c0caf5;
+  color10: #a9b1d6;
+  color11: #bb9af7;
+  color12: #7dcfff;
+  color13: #9d7cd8;
+  color14: #f7768e;
+  color15: #c0caf5;
+}
